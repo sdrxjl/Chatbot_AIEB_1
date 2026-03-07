@@ -1,0 +1,5 @@
+{
+  "Amazon": ["amazon", "amzn", "aws"],
+  "Alphabet": ["alphabet", "google", "goog", "googl"],
+  "Microsoft": ["microsoft", "msft"]
+}
