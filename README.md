@@ -46,26 +46,28 @@ We separated the work into three groups: **Group A**, **Group B**, and **Group C
 
 ### Group A — Question Bank Creation
 
-Qi Kan - @kkkqqq1116  
-Emanuel Telles Chaves  
+- Qi Kan — [@kkkqqq1116](https://github.com/kkkqqq1116)
+- Emanuel Telles Chaves
 
 ### Group B — RAG Pipeline, Evaluation, and Persona
 
-Yixuan Han - @sdrxjl  
-Tianjin Duan - @TianjinDuan01  
-Calis Nguyen - @cnguye95
+- Yixuan Han — [@sdrxjl](https://github.com/sdrxjl)
+- Tianjin Duan — [@TianjinDuan01](https://github.com/TianjinDuan01)
+- Calis Nguyen — [@cnguye95](https://github.com/cnguye95)
 
 ### Group C — Presentation Slides
 
-Xiaojia Wang - @wangxiaojia31  
-Zihan Wang
+- Xiaojia Wang — [@wangxiaojia31](https://github.com/wangxiaojia31)
+- Zihan Wang
 
 ---
 
 ## Process Flow
 
-Group A → Develops question bank → Group B  
+The collaboration followed a sequential workflow:
 
-Group B → Builds and evaluates the RAG pipeline and documents findings → Group C  
+**Group A → Group B → Group C**
 
-Group C → Designs slides based on outputs from Group A and Group B for the final presentation
+1. **Group A** develops the question bank.
+2. **Group B** builds the RAG pipeline, performs evaluation, and documents findings.
+3. **Group C** designs the presentation slides based on outputs from Group A and Group B for the final presentation.
