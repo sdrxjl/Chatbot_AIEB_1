@@ -37,3 +37,35 @@ streamlit run RAG/main.py
 Additional implementation details and design discussion can be found in:
 
 technotes.pdf
+
+---
+
+## Teamwork Contribution and Workflow
+
+We separated the work into three groups: **Group A**, **Group B**, and **Group C**.
+
+### Group A — Question Bank Creation
+
+Qi Kan (@kkkqqq1116)
+Emanuel Telles Chaves  
+
+### Group B — RAG Pipeline, Evaluation, and Persona
+
+Yixuan Han (@sdrxjl)  
+Tianjin Duan (@TianjinDuan01)  
+Calis Nguyen (@cnguye95)
+
+### Group C — Presentation Slides
+
+Xiaojia Wang (@wangxiaojia31)  
+Zihan Wang
+
+---
+
+## Process Flow
+
+Group A → Develops question bank → Group B  
+
+Group B → Builds and evaluates the RAG pipeline and documents findings → Group C  
+
+Group C → Designs slides based on outputs from Group A and Group B for the final presentation
