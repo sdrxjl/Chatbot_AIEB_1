@@ -46,18 +46,18 @@ We separated the work into three groups: **Group A**, **Group B**, and **Group C
 
 ### Group A — Question Bank Creation
 
-Qi Kan (@kkkqqq1116)  
+Qi Kan - @kkkqqq1116  
 Emanuel Telles Chaves  
 
 ### Group B — RAG Pipeline, Evaluation, and Persona
 
-Yixuan Han (@sdrxjl)  
-Tianjin Duan (@TianjinDuan01)  
-Calis Nguyen (@cnguye95)
+Yixuan Han - @sdrxjl  
+Tianjin Duan - @TianjinDuan01  
+Calis Nguyen - @cnguye95
 
 ### Group C — Presentation Slides
 
-Xiaojia Wang (@wangxiaojia31)  
+Xiaojia Wang - @wangxiaojia31  
 Zihan Wang
 
 ---
