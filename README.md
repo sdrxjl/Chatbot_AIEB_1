@@ -1,6 +1,6 @@
 # Financial 10-K RAG Chatbot
 
-This project implements a Retrieval-Augmented Generation (RAG) chatbot to analyze and answer questions about the 10-K filings of Alphabet, Amazon, and Microsoft.
+RAG-based financial report chatbot built with LangChain, FAISS, and Gemini, capable of analyzing 10-K filings from Alphabet, Amazon, and Microsoft with citation-based answers and evaluation pipeline.
 
 ---
 
