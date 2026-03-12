@@ -16,7 +16,7 @@ def main():
 
     #original: load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), ".env"))
     # ENV / KEYS
-    GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"  # Replace with your actual Gemini API key
+    GOOGLE_API_KEY = 'AIzaSyDCdV-XI5PsWhu-cOnN3BUIGsCh2ogbfL0' # "YOUR_GOOGLE_API_KEY"  # Replace with your actual Gemini API key
     os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
     # 
 
